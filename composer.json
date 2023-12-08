@@ -1,0 +1,8 @@
+{
+    "name": "ct275/project",
+    "require": {},
+    "autoload": 
+ {
+        "psr-4": { "myproject\\": "" }
+ }
+}
